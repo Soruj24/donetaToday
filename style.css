@@ -181,3 +181,49 @@ header{
     text-align: center;
         margin-bottom: 10px;
 }
+
+.lift-right{
+    display: flex;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.lift{
+    width: 50%;
+    margin: 10px;
+}
+.lift h1{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.lift p{
+    text-align: justify;
+    margin-bottom: 20px;
+    padding: 30px;
+}
+.lift-btn{
+width: 150px;
+height: 50px;
+background-color: #B88610;
+border: none;
+border-radius: 5px;
+}
+img{
+    width: 100%;
+    height: 300px;
+    border-radius: 7px;
+}
+
+.TwoAside{
+    display: flex;
+}
+.asideText{
+    margin: 20px;
+}
+.asideText h1{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.asideText p{
+    text-align: justify;
+    margin-bottom: 20px;
+}
