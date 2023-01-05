@@ -97,5 +97,23 @@ header{
 .amount{
     text-align: center;
     margin-top: 30px;
+    margin-bottom: 40px;
 }
+.sectionBtn {
+    text-align: center;
+    padding: 50px;
+       
+}
+.btnOne{
+    background-color:#B88610 ;
+    width: 100px;
+    height: 50px;
+    border: none;
+    border-radius: 6px;
+    transition: all .4s;
+}
+.btnOne:hover{
+    box-shadow: 2px 2px 4px rgb(45, 45, 43);
+}
+
 /* main end */
