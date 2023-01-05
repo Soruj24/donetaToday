@@ -117,3 +117,67 @@ header{
 }
 
 /* main end */
+.ourDonate{
+    text-align: center;
+}
+.ourDonate h2{
+    margin-bottom: 10px;
+}
+.ourDonate p{
+    width: 500px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+.card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.food{
+    background-color: #ccaa59;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 6px;
+    transition: all .5s;
+}
+.food:hover{
+    box-shadow: 4px 4px 5px black;
+    transform: rotate(2deg);
+}
+.food h3{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.family{
+    background-color: #ccaa59;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 6px;
+    transition: all .5s;
+}
+.family:hover {
+    box-shadow: 4px 4px 5px black;
+    transform: rotate(2deg);
+}
+.family h3{
+    text-align: center;
+    margin-bottom: 10px;
+    color: wheat;
+}
+.education{
+    background-color: #6e035a;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 6px;
+    transition: all .5s;
+}
+.education:hover {
+    box-shadow: 4px 4px 5px black;
+    transform: rotate(2deg);
+}
+.education h3{
+    text-align: center;
+        margin-bottom: 10px;
+}
