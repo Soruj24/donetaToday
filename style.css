@@ -227,3 +227,30 @@ img{
     text-align: justify;
     margin-bottom: 20px;
 }
+
+.updates{
+    margin-top: 50px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+   
+}
+.inputBtn{
+    background-color: #f4c5c5;
+    margin-top: 50px;
+    width: 500px;
+    height: 100px;
+    border-radius: 6px;
+    position: relative;
+   
+    margin-bottom: 50px;
+}
+input{
+text-align: center;
+}
+footer{
+    height: 100px;
+    text-align: center;
+    background-color: black;
+    color: wheat;
+}
