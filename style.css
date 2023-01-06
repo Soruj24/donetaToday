@@ -237,20 +237,43 @@ img{
 }
 .inputBtn{
     background-color: #f4c5c5;
-    margin-top: 50px;
+    margin: 0 auto;
     width: 500px;
     height: 100px;
     border-radius: 6px;
-    position: relative;
-   
     margin-bottom: 50px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 input{
-text-align: center;
+height: 50px;
+border-top-left-radius: 6px;
+border-bottom-left-radius:6px ;
+border: none;
+  
+}
+.btnSubmit{
+    height: 50px;
+    width: 90px;
+    border: none;
+    background-color: #B88610;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
 }
 footer{
     height: 100px;
-    text-align: center;
+   
     background-color: black;
     color: wheat;
+}
+footer h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+footer p{
+   text-align: center;
 }
