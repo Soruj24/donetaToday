@@ -264,16 +264,15 @@ border: none;
 }
 footer{
     height: 100px;
-   
+    display: flex;
+    justify-content: center;
     background-color: black;
+    align-items: center;
+    flex-direction: column;
     color: wheat;
 }
 footer h1{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-}
-footer p{
-   text-align: center;
+    
+    font-family: "Audiowide", sans-serif;
+   
 }
